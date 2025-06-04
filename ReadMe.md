@@ -2,13 +2,23 @@
 
 ###
 
+## Hey! I'm Dekoder-py!
+
+#### About me
+
+I'm currently learning Java on Udemy.
+
+I did a 40+ hour python course and have been practicing python for almost a year.
+
+I enjoy working with Python, Bash, and Linux.
+
+I love home labbing and automation.
+
+I also enjoy working with Raspberry Pis.
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dekoder-py&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dekoder-py&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://media.giphy.com/media/HCkbgKLdLWq3OCV8YM/giphy.gif?cid=790b7611z0xyyxvlazi1lmop1v1nk4vpjee9q2tmmbk75to8&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
@@ -29,7 +39,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="vscode logo"  />
 </div>
 
 ###
