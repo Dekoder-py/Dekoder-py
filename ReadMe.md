@@ -8,7 +8,7 @@
 
 I'm currently learning Java on Udemy.
 
-I did a 40+ hour python course and have been practicing python for almost a year.
+I completed a 35 hour python course by Teclado last year and have been writing python programs for almost a year.
 
 I enjoy working with Python, Bash, and Linux.
 
