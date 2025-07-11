@@ -6,7 +6,7 @@
 
 #### About me
 
-I'm currently learning Java on Udemy.
+I'm currently learning Java on Udemy, and pygame from various sources.
 
 I completed a 35 hour python course by Teclado last year and have been writing python programs for almost a year.
 
