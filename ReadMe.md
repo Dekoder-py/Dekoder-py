@@ -6,7 +6,9 @@
 
 #### About me
 
-I'm currently learning Java and Pygame!
+I know Python and Java.
+
+I'm currently learning C++!
 
 I completed a 35 hour python course by Teclado last year and have been writing python programs for almost a year.
 
