@@ -18,9 +18,7 @@ I love home labbing and automation.
 
 I also enjoy working with Raspberry Pis.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dekoder-py&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
+![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=8601&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=transparent)
 
 ###
 
