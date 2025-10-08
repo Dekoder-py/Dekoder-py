@@ -1,7 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hi!+I'm+Dekoder-py.;)](https://git.io/typing-svg)
-
-###
-
 ## Hey! I'm Dekoder-py!
 
 #### About me
@@ -17,6 +13,8 @@ I enjoy working with Python, Bash, and Linux.
 I love home labbing and automation.
 
 I also enjoy working with Raspberry Pis.
+
+Go check out [my website](https://dekoder-py.hackclub.app)!
 
 ![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=8601&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=dark)
 
