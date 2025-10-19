@@ -1,18 +1,10 @@
-## Hey! I'm Dekoder-py!
-
 #### About me
 
-I know Python and Java.
-
-I'm currently learning C++!
+I know Python and Java and I'm learning C++, TypeScript, and React.
 
 I completed a 35 hour python course by Teclado last year and have been writing python programs for almost a year.
 
-I enjoy working with Python, Bash, and Linux.
-
-I love home labbing and automation.
-
-I also enjoy working with Raspberry Pis.
+I enjoy homelabbing and coding.
 
 Go check out [my website](https://kyle-is-a.dino.icu)!
 
