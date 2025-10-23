@@ -6,7 +6,7 @@ I completed a 35 hour python course by Teclado last year and have been writing p
 
 I enjoy homelabbing and coding.
 
-Go check out [my website](https://kyle-is-a.dino.icu)!
+Go check out [my website](https://codingcorner.dev)!
 
 ###
 
