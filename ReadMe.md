@@ -35,6 +35,6 @@ Go check out [my website](https://codingcorner.dev)!
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Dekoder-py/Dekoder-py/output/snake.svg" alt="Snake animation" />
+![GitHub Space Shooter](game.gif)
 
 ###
