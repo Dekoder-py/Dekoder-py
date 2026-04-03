@@ -1,6 +1,6 @@
 #### About me
 
-I know Python and Java and I'm learning C++, TypeScript, and React.
+I know Python and Java and C++, as well as some TypeScript, and React. I'm also learning Rust with [Hack Club Resolution](https://resolution.hackclub.com)
 
 I completed a 35 hour python course by Teclado last year and have been writing python programs for almost a year.
 
